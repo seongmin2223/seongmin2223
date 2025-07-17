@@ -43,9 +43,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seongmin2223&show_icons=true&theme=nord">
 </div>
-
-### 💖 방문해 주셔서 감사합니다!
----
-<div align="center">
-  <img src="https://hits.seeyou.jp/trans_count.php?url=https%3A%2F%2Fgithub.com%2Fseongmin2223&type=wpy&count_bg=%237CD2DF&edge_color=%237CD2DF" />
-</div>
