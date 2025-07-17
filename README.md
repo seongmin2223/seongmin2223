@@ -13,4 +13,5 @@
 
 
 ### 📊 GitHub 통계
+<hr>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seongmin1013&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
