@@ -13,14 +13,12 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/JPA-599B59?style=for-the-badge&logo=spring&logoColor=white">
 </div>
-<br>
 
 #### Database
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </div>
-<br>
 
 #### Frontend
 <div align="center">
@@ -29,7 +27,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
-<br>
 
 #### Tools & Others
 <div align="center">
