@@ -43,3 +43,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seongmin1013&show_icons=true&theme=nord">
 </div>
+
+### 💖 방문해 주셔서 감사합니다!
+---
+<div align="center">
+  <img src="https://profile-counter.glitch.me/seongmin2223/count.svg" />
+</div>
