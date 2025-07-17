@@ -11,7 +11,3 @@
 
 ### 📊 GitHub 통계
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seongmin1013&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### 💖 방문해 주셔서 감사합니다!
-<img src="https://profile-counter.glitch.me/seongmin1013/count.svg" />
