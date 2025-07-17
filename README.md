@@ -47,5 +47,5 @@
 ### 💖 방문해 주셔서 감사합니다!
 ---
 <div align="center">
-  <img src="https://profile-counter.glitch.me/seongmin2223/count.svg" />
+  <img src="https://hits.seeyou.jp/trans_count.php?url=https%3A%2F%2Fgithub.com%2Fseongmin1013&type=wpy&count_bg=%237CD2DF&edge_color=%237CD2DF" />
 </div>
